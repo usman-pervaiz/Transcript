@@ -1,1 +1,1 @@
-This progam make a marksheet accourding to your numbers.
+This progam make a marksheet according to your numbers.
